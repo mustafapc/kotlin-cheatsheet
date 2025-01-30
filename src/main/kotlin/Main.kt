@@ -1,7 +1,6 @@
 package org.example
 import org.smth.*
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 interface firstname{
 //String? accepts null value but String gives error when null
 var firstname:String?
