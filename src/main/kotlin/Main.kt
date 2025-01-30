@@ -2,7 +2,7 @@ package org.example
 import org.smth.*
 
 interface firstname{
-//String? accepts null value but String gives error when null
+//String? accepts null value but String gives error when you put null as value
 var firstname:String?
 }
 interface lastname: firstname {
